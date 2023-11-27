@@ -2731,10 +2731,10 @@ h2.section-title.wow.fadeInUp.animated,
   background-image: linear-gradient(0deg, #000 0, #000c44 100%);
 }
 #information-bar ul li span b {
-  color: red;
+  color: aliceblue;
 }
 span {
-  color: yellow;
+  color: white;
 }
 section#schedules,
 section#faq {
