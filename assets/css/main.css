@@ -235,6 +235,7 @@ ol li {
   color: #fff;
 }
 
+/*this is the original gradient color of the register buttons*/
 .btn-common {
   /* background-image: linear-gradient(65deg, #0000ff 0, #00bfff 100%); */
   background-image: linear-gradient(65deg, #2b72ad 0, #0099ff 50%);
@@ -242,6 +243,7 @@ ol li {
   position: relative;
 }
 
+/*this the the hovering gradient color of the register buttons */
 .btn-common:hover {
   /* color: #fff; */
   background-image: linear-gradient(65deg, rgb(253, 45, 191) 0, #ff2fff 100%);
