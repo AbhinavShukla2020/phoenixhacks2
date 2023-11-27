@@ -237,7 +237,7 @@ ol li {
 
 .btn-common {
   /* background-image: linear-gradient(65deg, #0000ff 0, #00bfff 100%); */
-  background-image: linear-gradient(65deg, #2b72ad 0, #0099ff 50%);
+  background-image: linear-gradient(65deg, #2b72ad 0, #ff0000 50%);
   box-shadow: 0 8px 16px rgba(26, 164, 206, 0.75);
   position: relative;
 }
@@ -277,8 +277,8 @@ ol li {
 }
 
 .btn-border:hover {
-  color: #ff0000;
-  border-color: #ff0000;
+  color: #0000ff;
+  border-color: #0000ff;
   background-color: rgba(255, 255, 255, 0.2);
 }
 
@@ -288,7 +288,7 @@ ol li {
 }
 
 .btn-fill:hover {
-  color: #ff0000;
+  color: #0000ff;
 }
 
 .btn-lg {
