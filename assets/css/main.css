@@ -835,7 +835,7 @@ a.back-to-top:focus {
 .dropdown .dropdown-item:focus,
 .dropdown .dropdown-item:hover,
 .dropdown .dropdown-item.active {
-  color: #ff0000;
+  color: #0000ff;
 }
 
 .dropdown-item.active,
