@@ -2484,7 +2484,7 @@ footer {
 3. Hero Area
 ========================================================================== */
 .hero-area-bg {
-  /* background: url(../img/hero-area.jpg) n  at;   */
+  /* background: url(../img/hero-area.jpg) n  at;    */
   background: url(../img/background/ScndImg.png) no-repeat;
   background-size: cover;
   background-position: center center;
