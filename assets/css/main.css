@@ -920,7 +920,7 @@ the one on top and this one have to be the same (i think)*/
 }
 
 #about {
-  background: #91cc7e;
+  background: #ff00;
 }
 
 .about-content {
@@ -967,7 +967,7 @@ the one on top and this one have to be the same (i think)*/
   left: 0;
   top: 7px;
   font-size: 20px;
-  color: #0000ff;
+  color: #eb4034;
 }
 
 .about-content .btn-about {
