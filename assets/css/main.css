@@ -2713,7 +2713,8 @@ section#count {
   margin-bottom: 50px;
   color: #000 !important;
 }
-/* Dark Theme 45*/
+/* Dark Theme */
+/* changes color of about the hackathon and its bullet points but not the description*/
 section#about {
   background: #000;
   color: #e39117;
