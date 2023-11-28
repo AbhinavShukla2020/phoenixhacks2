@@ -1872,6 +1872,7 @@ h1 {
   transition: all 300ms ease-in-out;
 }
 
+/* hovering color of the subtitles in hack domain */
 .blog-item .descr h3 a:hover {
   color: rgb(153, 52, 37);
 }
