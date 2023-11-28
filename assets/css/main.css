@@ -657,11 +657,12 @@ a.back-to-top:focus {
   color: #212121 !important;
 }
 
-/* I think it's the color of the text "Registration" and other buttons like that, when hovered */
+/* it's the color of the text "Registration" and other buttons like that, when hovered */
 .top-nav-collapse .navbar-nav .nav-link:hover {
   color: #2b72ad !important;
 }
 
+/* it's the color of the text "Registration" and other buttons like that, when hovered */
 .top-nav-collapse .navbar-nav li.active a.nav-link {
   color: #2b72ad !important;
 }
@@ -669,7 +670,7 @@ a.back-to-top:focus {
 .navbar-expand-lg .navbar-toggler {
   background: transparent;
   border: 1px solid #2b72ad;
-  background-image: linear-gradient(65deg, #2b72ad 0, #0099ff 50%);
+  background-image: linear-gradient(65deg, #2b72ad 0, #ff0000 50%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
