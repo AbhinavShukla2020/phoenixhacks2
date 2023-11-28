@@ -659,12 +659,12 @@ a.back-to-top:focus {
 
 /* i think it's the color of the text "Registration" and other buttons like that, when hovered */
 .top-nav-collapse .navbar-nav .nav-link:hover {
-  color: #ff0000 !important;
+  color: #87f20f !important;
 }
 
 /* it's the color of the text "Registration" and other buttons like that, when hovered */
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-  color: #87f20f !important;
+  color: #ff0000 !important;
 }
 
 .navbar-expand-lg .navbar-toggler {
