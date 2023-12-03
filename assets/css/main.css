@@ -2717,7 +2717,7 @@ section#count {
 /* changes color of about the hackathon and its bullet points but not the description*/
 section#about {
   background: #000;
-  color: #e39117;
+  color: #eb7d2f;
 }
 section#information-bar {
   background: #000;
@@ -2760,7 +2760,7 @@ div#headingOne3 {
 .schedule .card-header h4,
 p,
 h3 {
-  color: white;
+  color: #d9dbdb;
 }
 .schedule .card-header .name {
   color: beige;
