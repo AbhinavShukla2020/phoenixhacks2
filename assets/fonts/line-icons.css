@@ -281,6 +281,7 @@
 }
 .lni-check-mark-circle:before {
   content: "\e94c";
+  color: white;
 }
 .lni-cross-circle:before {
   content: "\e94d";
