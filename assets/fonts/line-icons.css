@@ -708,6 +708,7 @@
 }
 .lni-domain:before {
   content: "\e9d2";
+  color:white;
 }
 .lni-target-audience:before {
   content: "\e9d3";
