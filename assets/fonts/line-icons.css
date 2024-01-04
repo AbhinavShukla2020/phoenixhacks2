@@ -218,6 +218,7 @@
 }
 .lni-microphone:before {
   content: "\e938";
+  color: #eb7d2f;
 }
 .lni-magnet:before {
   content: "\e939";
@@ -336,6 +337,7 @@
 }
 .lni-heart:before {
   content: "\e95e";
+  color: #eb7d2f;
 }
 .lni-heart-filled:before {
   content: "\e93e";
@@ -471,6 +473,7 @@
 }
 .lni-bullhorn:before {
   content: "\e987";
+  color: #eb7d2f;
 }
 .lni-calendar:before {
   content: "\e988";
@@ -567,6 +570,7 @@
 }
 .lni-users:before {
   content: "\e9a5";
+  color: #eb7d2f;
 }
 .lni-wallet:before {
   content: "\e9a6";
@@ -597,6 +601,7 @@
 }
 .lni-cup:before {
   content: "\e9af";
+  color: #eb7d2f;
 }
 .lni-library:before {
   content: "\e9b0";
@@ -639,6 +644,7 @@
 }
 .lni-gallery:before {
   content: "\eac4";
+  color: #eb7d2f;
 }
 .lni-image:before {
   content: "\eac5";
