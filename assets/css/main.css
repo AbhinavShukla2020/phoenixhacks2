@@ -1571,7 +1571,7 @@ h1 {
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -ms-border-radius: 50%;
-  background-image: linear-gradient(65deg, #2b72ad 0, #eb7d2f 100%);
+  background-image: linear-gradient(65deg, #eb2f2f7d 0, #eb7d2f 100%);
   color: #fff;
   display: block;
   text-align: left;
