@@ -134,13 +134,13 @@ ol li {
 
 .section-title:before {
   content: '[';
-  color: #0099ff;
+  color: #eb7d2f;
   padding-right: 10px;
 }
 
 .section-title:after {
   content: ']';
-  color: #0099ff;
+  color: #eb7d2f;
   padding-left: 10px;
 }
 
@@ -1280,7 +1280,8 @@ h1 {
 .schedule .nav-tabs .nav-item .nav-link:hover {
   border-color: transparent;
   position: relative;
-  background-image: linear-gradient(65deg, #2b72ad 0, #0099ff 50%);
+  border-radius: 10px;
+  background-image: linear-gradient(65deg, #ab470e 0, #ab470e 50%);
 }
 
 .schedule .nav-tabs .nav-item.show .nav-link h4,
@@ -1303,7 +1304,7 @@ h1 {
   bottom: -24px;
   border-width: 12px;
   border-style: solid;
-  border-color: #2b72ad transparent transparent transparent;
+  border-color: #ab470e transparent transparent transparent;
 }
 
 .schedule .item-text {
@@ -1340,7 +1341,7 @@ h1 {
 }
 
 .schedule .card .schedule-slot-time {
-  background-image: linear-gradient(65deg, #2b72ad 0, #0099ff 50%);
+  background-image: linear-gradient(65deg, #ab470e 0, #ab470e 50%);
   color: #fff;
   padding: 38px 28px;
   float: left;
@@ -1467,8 +1468,8 @@ h1 {
 }
 
 #information-bar .inforation-wrapper {
-  background: #eb7d2f;
-  border-radius: 4px;
+  background: #eb2f2f7d;
+  border-radius: 30px;
   box-shadow: 0 8px 24px #e2e8ed;
   margin-bottom: -35px;
   margin-top: 0px;
@@ -1879,7 +1880,7 @@ h1 {
 }
 
 .register-link {
-  color: #ff2fff !important;
+  color: #eb2f2f !important;
   cursor: pointer;
   font-weight: 700;
 }
