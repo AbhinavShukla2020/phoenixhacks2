@@ -238,15 +238,15 @@ ol li {
 /*this is the original gradient color of the register buttons*/
 .btn-common {
   /* background-image: linear-gradient(65deg, #0000ff 0, #00bfff 100%); */
-  background-image: linear-gradient(65deg, rgb(255, 255, 255) 0, #d4c22 50%);
-  box-shadow: 0 8px 16px rgba(212, 255, 212, 0.75);
+  background-image: linear-gradient(65deg, #591919 0, #d42822 50%);
+  box-shadow: 0 8px 16px rgba(212, 255, 212, 0.5);
   position: relative;
 }
 
 /*this the the hovering gradient color of the register buttons */
 .btn-common:hover {
-  /* color: #fff */
-  background-image: linear-gradient(65deg, #2b72ad 0, #d42822 50%);
+  /* color: #fff   rgb(255, 255, 255) */
+  background-image: linear-gradient(65deg,  #593f19 0, #ab470e 50%);
   color: #000;
   font-weight: bold !important;
   box-shadow: 0 8px 16px rgba(212, 108, 34, 1);
@@ -257,7 +257,7 @@ ol li {
 
 .btn-common:hover {
   /* color: #fff; */
-  background-color: rgb(247, 223, 7);
+  background-color: rgb(255, 255, 255);
   color: #000;
   box-shadow: 0 8px 16px rgba(226, 243, 73, 0.4);
   transition: all 0.2s ease-in-out;
@@ -1538,7 +1538,7 @@ h1 {
 }
 
 .single-intro-text:hover {
-  box-shadow: 0 16px 48px #e2e8ed;
+  box-shadow: 0 16px 48px #eb2f2f;
 }
 
 .single-intro-text i {
@@ -1581,7 +1581,7 @@ h1 {
 }
 
 .single-intro-text:hover i {
-  background-image: linear-gradient(65deg, rgb(253, 45, 191) 0, #ff2fff 100%);
+  background-image: linear-gradient(65deg, rgb(235, 47, 47) 0, #eb2f2f 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -1876,7 +1876,7 @@ h1 {
 
 /* hovering color of the subtitles in hack domain */
 .blog-item .descr h3 a:hover {
-  color: rgb(153, 52, 37);
+  color: rgb(235, 125, 47);
 }
 
 .register-link {
@@ -1915,7 +1915,7 @@ h1 {
 }
 
 .blog-item:hover {
-  box-shadow: 0 16px 48px #e2e8ed;
+  box-shadow: 0 16px 48px #eb7d2f;
 }
 
 .blog-item:hover .blog-image img {
